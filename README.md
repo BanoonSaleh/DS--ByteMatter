@@ -215,22 +215,17 @@ Conclusion
 Using Machine Learning on the education system dataset will help to predict the average number of students per class in Saudi Arabia. It will also help in predicting the average class size, by type of institution and level of education. And the ratio of students to teaching staff.
 Resources:
 
-1.     Saudi Open Data Portal
+1. Saudi Open Data Portal
+https://data.gov.sa/Data/en/dataset/2014-2021/resource/03cced36-a608-49ba-85ad-3c8e8d9a4984
 
-      https://data.gov.sa/Data/en/dataset/2014-2021/resource/03cced36-a608-49ba-85ad-3c8e8d9a4984
-
-2.     Vision Realization Programs
-
+2. Vision Realization Programs
 https://www.vision2030.gov.sa/ar/
 
-3.     Ministry of Education 
-
+3. Ministry of Education 
 https://moe.gov.sa/ar/knowledgecenter/dataandstats/Pages/educationindicators.aspx
 
-4.     General Authority for Statistics 
-
+4. General Authority for Statistics 
 https://database.stats.gov.sa/beta/dashboard/indicator/410
 
-5.     Trading Economics - Saudi Arabia - School Enrollment, Preprimary (% Gross)
-
+5. Trading Economics - Saudi Arabia - School Enrollment, Preprimary (% Gross)
 https://tradingeconomics.com/saudi-arabia/school-enrollment-preprimary-percent-gross-wb-data.html
