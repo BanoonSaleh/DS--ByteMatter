@@ -15,17 +15,17 @@ The Program aims to prepare citizens for the job market and to be able to compet
 
 The Vision was cascaded into strategic objectives to enable effective implementation through Vision Realization Programs.
 
-Business Problem 
+### Business Problem 
 
 In order to improve the educational system, and make it much effective, one goal was to make the number of teachers and classes proportional to the number of students in a class. The targeted  number of students is 22 students per class by 2025 
 
  
-Study Approach 
+### Study Approach 
 We started by collecting data about the current state. Then, the collected data was analyzed in order to identify the number of schools with students more than the targeted number. Machine learning models were utilized in order to measure the goal at the current state and the progress to the accomplishment of the final goal by 2025. Finally, a plan was developed for achieving the final goal. 
 
 
 
-Current Status Analysis
+# Current Status Analysis
 
 Average Students per Class in 2020.
 
