@@ -111,7 +111,7 @@ This stacked bar plot represents the top 7 provinces with total number of classe
  
  
 These bar plots represent the general statistics of schools in each province for 2021, which shows the Eastern Province record the highest number in all plots. The total of students was 909842, the total of classes 38062, and the total of teachers 62903. Then Riyadh, in second place.
-¬¬  
+  
 
  
 
@@ -149,7 +149,7 @@ This pie plot represents the percentage of each school system in Saudi Arabia. T
  ![system](https://user-images.githubusercontent.com/28055394/188961073-702d629f-70c5-4dda-9975-f78e2b21ac70.png)
 
 
-### Modelling
+# Modelling
 
 
 ### Selecting The Prediction Target
@@ -197,7 +197,7 @@ After comparing the accuracy of the applied model. It's obviously clear to us th
 Finally, as shown in the above chart, the performance of all models is high, so we decided that the model does not need any further tuning.
 
 
-### Findings    
+# Findings    
 
  ![result](https://user-images.githubusercontent.com/28055394/188958866-928d064d-9f83-45b7-92ac-ffed43a2895d.png)
  
