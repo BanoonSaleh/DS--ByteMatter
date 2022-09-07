@@ -213,7 +213,7 @@ In order to achieve the targeted number of student per class in almost all schoo
 •	This process must be done gradually as it  requires  adding more classes or even building new schools depending on the number of student and hiring the required number of teachers.
 Conclusion
 Using Machine Learning on the education system dataset will help to predict the average number of students per class in Saudi Arabia. It will also help in predicting the average class size, by type of institution and level of education. And the ratio of students to teaching staff.
-Resources
+Resources:
 
 Saudi Open Data Portal
 
