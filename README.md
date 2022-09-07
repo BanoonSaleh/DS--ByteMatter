@@ -25,7 +25,7 @@ We started by collecting data about the current state. Then, the collected data 
 
 
 
-# Current Status Analysis
+### Current Status Analysis
 
 Average Students per Class in 2020.
 
@@ -34,7 +34,7 @@ This graph compares the average number of students per class and the maximum num
 ![traget](https://user-images.githubusercontent.com/28055394/188959670-2677f253-f8ac-4c06-8cd6-b00d7fd9c302.png)
 
  
-Number of Students by Gender Per Province
+### Number of Students by Gender Per Province
 
 
 This plot represents the number of students per province. It shows that Riyadh has the highest number of students with about 6M student, after comes Makkah with about 5.7 student, then Eastern province with about 3.5 student. The Northern Borders province has the least number of student with 3.5 about student. The number of boys and girls in each province is almost the same.
@@ -44,7 +44,7 @@ This plot represents the number of students per province. It shows that Riyadh h
 
 
  
-Number of Students by Educational Level per Province
+### Number of Students by Educational Level per Province
 
 
 This graph shows the top eight provinces with  highest number of students in each educational level. It is clearly that elementary level has the highest number of students among all levels for all provinces, where it represents almost about 50% of each province's students. In contrast, kindergarten students has the least number of students in each province. Furthermore, high and middle school students are almost the same in each province.
@@ -53,7 +53,7 @@ This graph shows the top eight provinces with  highest number of students in eac
  ![Education level](https://user-images.githubusercontent.com/28055394/188959847-a39a8495-8df9-422c-90bc-75d89d4b767c.jpg)
 
  
-Number of Students by Educational Level per Year
+### Number of Students by Educational Level per Year
 
 
 The graph bellow shows the number of students yearly distributed by educational level. From the graph,  the number of students is increasing gradually since 2014. However, the years 2018, 2019, and 2021 has almost the same number of students with a slight change either positive or negative and middle school students are almost the same in each province.
@@ -64,7 +64,7 @@ The graph bellow shows the number of students yearly distributed by educational 
 
 
 
-The Percentage of School Types in Saudi Arabia
+### The Percentage of School Types in Saudi Arabia
 
 
 This plot represents the percentage of each school type in Saudi Arabia. It is obvious that public schools represent the highest number of schools with almost about 80% . On the other hand, private schools represent about 15% of schools. Moreover, International schools represents 5.6% and Royal commission schools are .3% of all schools in Saudi Arabia.
@@ -75,7 +75,7 @@ This plot represents the percentage of each school type in Saudi Arabia. It is o
 
 
 
- Total Student in Public and Private School
+ ### Total Student in Public and Private School
 
 
  This graph represents the number of boys and girls students in each educational level in public and private schools. The graph shows that in public schools, the total number of girls students is higher than the number of boys in all education level. In contrast, in private schools, the total number of boys students are almost double the total number of girls in each educational level.
@@ -87,7 +87,7 @@ This plot represents the percentage of each school type in Saudi Arabia. It is o
 ![private](https://user-images.githubusercontent.com/28055394/188959978-d06e0287-e618-4362-9c73-1a92744cd5f5.jpg)
  
 
-Top 7 Province with Total Students by Year
+### Top 7 Province with Total Students by Year
 
 
 This stacked bar plot represents the top 7 provinces with highest total number of students per  year. In 2018 and 2021, the number of students was the highest for all provinces. Next the year of 2020 followed by 2019.
@@ -97,7 +97,7 @@ This stacked bar plot represents the top 7 provinces with highest total number o
 ![student per province](https://user-images.githubusercontent.com/28055394/188960236-b702c08c-d7ca-4747-8d93-1ff655bc0332.jpg)
 
  
-Top 7 Province with Total Classes by Year
+### Top 7 Province with Total Classes by Year
 
 
 This stacked bar plot represents the top 7 provinces with total number of classes.  In the years  2018 and 2021, the number of classes is the highest for all provinces. Next the year of 2020 followed by 2019. This is clearly compatible with the number of student which was the highest in the years 2018 and 2021. 
@@ -107,7 +107,7 @@ This stacked bar plot represents the top 7 provinces with total number of classe
  
  
  
- Statistics per Province for 2021
+### Statistics per Province for 2021
  
  
 These bar plots represent the general statistics of schools in each province for 2021, which shows the Eastern Province record the highest number in all plots. The total of students was 909842, the total of classes 38062, and the total of teachers 62903. Then Riyadh, in second place.
@@ -123,7 +123,7 @@ These bar plots represent the general statistics of schools in each province for
 
 
 
-Number of New Kindergarten’s Students per Year
+### Number of New Kindergarten’s Students per Year
 
 This figure shows the number of kindergarten's students per year. The year of 2019 has the highest number of kindergartens students. In 2020, during the pandemic, the schools system was turned into online classes, there for, the number of students has decreased by about 20%. In 2021, by the end of the pandemic, the number of kindergarten's students has sharply decreased from 21.2k to 2.5k which is about 88%, and that is because of the resistance of parents to send their children to school while the threat of Corona Virus is still present.
 
@@ -131,7 +131,7 @@ This figure shows the number of kindergarten's students per year. The year of 20
 ![kg](https://user-images.githubusercontent.com/28055394/188960722-5eb513a3-b308-4a6e-bbb5-97b56d70293f.png)
 
  
-The Percentage of School Type in Saudi Arabia.
+### The Percentage of School Type in Saudi Arabia.
 
 This pie chart represents the percentage of each school type in Saudi Arabia. It is obvious that Day schools represent the highest number of schools with 45.5% . Moreover , the Special education schools represent 19.8% of schools. On the other hand, Religious (Koranic)schools represents 19.6% , and Adult education schools represent 15.1% of all schools in Saudi Arabia.
 
@@ -140,7 +140,7 @@ This pie chart represents the percentage of each school type in Saudi Arabia. It
  ![type](https://user-images.githubusercontent.com/28055394/188960449-db907a8f-0140-41ed-a430-27971b800da2.png)
 
 
-The Percentage of School System in Saudi Arabia
+### The Percentage of School System in Saudi Arabia
 
 This pie plot represents the percentage of each school system in Saudi Arabia. The general system represents the highest number of schools, with 84.4%. Where the course system schools represent 15.5%.
  
@@ -149,16 +149,16 @@ This pie plot represents the percentage of each school system in Saudi Arabia. T
  ![system](https://user-images.githubusercontent.com/28055394/188961073-702d629f-70c5-4dda-9975-f78e2b21ac70.png)
 
 
-Modelling
+### Modelling
 
 
-Selecting The Prediction Target
+### Selecting The Prediction Target
 The first step is to select the column we want to predict, which is “Avg_Student_Per_Class”,
 Which indicates the average number of students per class. 
-Choosing the "Features"
+### Choosing the "Features"
 The columns that are inputted into our model (and later used to make predictions) are called "features." In our case, those would be the columns used to determine the average number of students per class. We used all columns except the target as features. 
 We selected multiple features by providing a list of column names inside brackets. Each item in that list should be a string (with quotes).
-Building Our Model
+### Building Our Model
 We used the scikit-learn library to create our models. Scikit-learn is easily the most popular library for modeling the types of data typically stored in DataFrames.
 The steps to building and using a model are:
 •	Define: What type of model will it be
@@ -166,7 +166,7 @@ The steps to building and using a model are:
 •	Fit: Capture patterns from provided data. This is the heart of modeling.
 •	Predict: Just what it sounds like
 •	Evaluate: Determine how accurate the model's predictions are.
-Regression Models:
+### Regression Models:
 First, we tried to train out the regression models, so the first step we needed to do is splitting up our data into an X array that contains the features to train on, and a y array with the target variable, in our case the “Avg_Student_Per_Class” column. For the categorical features, we had to transform them into numbers(dummy/indicator) by using pandas.get_dummies.
 After splitting the data, the baseline average was calculated to help characterize past performance for selected monitored parameters, assess present performance, and estimate future performance.
 We performed some models which are (KNeighbors, MLP, DecisionTree, RandomForest, and LinearRegression) The selection of the best model was done based on the high degree of accuracy of the model compared to other models. The best model is the DecisionTree model and that's because it has a test accuracy equal to 93.69%.
@@ -197,7 +197,7 @@ After comparing the accuracy of the applied model. It's obviously clear to us th
 Finally, as shown in the above chart, the performance of all models is high, so we decided that the model does not need any further tuning.
 
 
-Findings    
+### Findings    
 
  ![result](https://user-images.githubusercontent.com/28055394/188958866-928d064d-9f83-45b7-92ac-ffed43a2895d.png)
  
@@ -216,12 +216,21 @@ Using Machine Learning on the education system dataset will help to predict the 
 Resources
 
 Saudi Open Data Portal
+
 https://data.gov.sa/Data/en/dataset/2014-2021/resource/03cced36-a608-49ba-85ad-3c8e8d9a4984
+
 Vision Realization Programs
+
 https://www.vision2030.gov.sa/ar/
+
 Ministry of Education 
+
 https://moe.gov.sa/ar/knowledgecenter/dataandstats/Pages/educationindicators.aspx
+
 General Authority for Statistics 
+
 https://database.stats.gov.sa/beta/dashboard/indicator/410
+
 Trading Economics - Saudi Arabia - School Enrollment, Preprimary (% Gross)
+
 https://tradingeconomics.com/saudi-arabia/school-enrollment-preprimary-percent-gross-wb-data.html
