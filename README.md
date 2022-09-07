@@ -87,7 +87,7 @@ This plot represents the percentage of each school type in Saudi Arabia. It is o
 ![private](https://user-images.githubusercontent.com/28055394/188959978-d06e0287-e618-4362-9c73-1a92744cd5f5.jpg)
  
 
-### Top 7 Province with Total Students by Year
+### Top 8 Province with Total Students by Year
 
 
 This stacked bar plot represents the top 7 provinces with highest total number of students per  year. In 2018 and 2021, the number of students was the highest for all provinces. Next the year of 2020 followed by 2019.
@@ -97,7 +97,7 @@ This stacked bar plot represents the top 7 provinces with highest total number o
 ![student per province](https://user-images.githubusercontent.com/28055394/188960236-b702c08c-d7ca-4747-8d93-1ff655bc0332.jpg)
 
  
-### Top 7 Province with Total Classes by Year
+### Top 8 Province with Total Classes by Year
 
 
 This stacked bar plot represents the top 7 provinces with total number of classes.  In the years  2018 and 2021, the number of classes is the highest for all provinces. Next the year of 2020 followed by 2019. This is clearly compatible with the number of student which was the highest in the years 2018 and 2021. 
