@@ -217,7 +217,7 @@ Resources:
 
 1.     Saudi Open Data Portal
 
-https://data.gov.sa/Data/en/dataset/2014-2021/resource/03cced36-a608-49ba-85ad-3c8e8d9a4984
+      https://data.gov.sa/Data/en/dataset/2014-2021/resource/03cced36-a608-49ba-85ad-3c8e8d9a4984
 
 2.     Vision Realization Programs
 
