@@ -25,7 +25,7 @@ We started by collecting data about the current state. Then, the collected data 
 
 
 
-### Current Status Analysis
+### Current Status Analysis:
 
 Average Students per Class in 2020.
 
